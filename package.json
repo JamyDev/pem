@@ -2,10 +2,10 @@
   "author": "Andris Reinman <andris@node.ee>",
   "name": "pem-prebuilt",
   "description": "Create private keys and certificates with node.js",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andris9/pem.git"
+    "url": "git://github.com/JamyDev/pem.git"
   },
   "main": "lib/pem",
   "scripts": {
